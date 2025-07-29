@@ -8,7 +8,7 @@ input_excel = "produts-1404-03-09-with-images.xlsx"
 output_excel = "products_output_with_content.xlsx"
 
 # کلید API مربوط به OpenAI (GPT-3.5-Turbo)
-API_KEY = "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"  # ← اینجا کلید API خودت رو بزن
+API_KEY = ""  # ← اینجا کلید API خودت رو بزن
 
 # هدرهای درخواست HTTP
 headers = {
